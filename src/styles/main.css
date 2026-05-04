@@ -14,7 +14,7 @@
   width: 100%;
   background-color: #000000;
   color: #ffffff;
-  border-bottom: 5px solid #ffd700;
+  border-bottom: 5px solid #df3fa2;
 }
 
 .panel {
@@ -28,7 +28,7 @@
   height: 150px;
   width: 150px;
   border: 1px solid #000000;
-  background-color: #1aeaa5;
+  background-color: #db219d;
 }
 
 .enemy {
